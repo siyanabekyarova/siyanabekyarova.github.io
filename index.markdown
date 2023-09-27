@@ -14,4 +14,4 @@ Crafting unique and memorable designs for your brand, event, or personal project
 High-quality paper printing, banners, posters, and more.
 
 Ready to get started?
-[Get a Quote](/contact) or [View Our Portfolio](/portfolio)
+[View Our Services](/services) and [our Portfolio of completed projects](/portfolio) to [Get a Quote](/contact).
