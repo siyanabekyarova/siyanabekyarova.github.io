@@ -30,3 +30,11 @@ h3 {
 .home a:hover {
     color: #2C3E50; /* Color when hovering over the link */
 }
+
+.footer-col-1 .p-name {
+    display: none;
+}
+
+.post-header .post-title {
+    display: none;
+}
