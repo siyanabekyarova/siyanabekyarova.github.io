@@ -1,51 +1,42 @@
 ---
 layout: page
-title: Services
+title: Услуги
 permalink: /services/
 ---
 
-# Our Services
+<link rel="stylesheet" href="/assets/custom.css">
 
-At Прайм Принт, we offer a comprehensive range of printing and design services tailored to meet the diverse needs of our clients. Whether you're a small business, an individual, or a large corporation, our dedicated team ensures high-quality results with a personal touch. Here’s a look at the services we provide:
+# Нашите продукти включват:
 
-## Design
+Плакати: Изразете себе си със стил и креативност чрез нашите впечатляващи плакати.
 
-Our design team specializes in creating visually striking and effective designs, ensuring your brand or project stands out. From initial conceptualization to final revisions, we are committed to bringing your vision to life.
+Календари: Създаваме еднолистни и многолистни календари, перфектни за подаръци или корпоративни събития.
 
-- **Brand Identity**: Logo design, brand guidelines, and more.
-- **Print Design**: Layouts for posters, brochures, business cards, and more.
-- **Digital Design**: Website graphics, social media assets, and digital campaigns.
+Брошури и книги: Нашата екипировка и опит гарантират професионално издание на вашата литература.
 
-## Preprint
+Листовки и флаери: Представете вашите продукти и услуги с ярки и вдъхновяващи листовки и флаери.
 
-Preprint is a crucial step to ensure the quality of the final printed product. Our preprint services include:
+Кутии и опаковки: Опаковайте вашите продукти с изящност и стил с нашите персонализирани кутии и опаковки.
 
-- **File Review**: Ensuring the designs are print-ready.
-- **Color Management**: Adjusting colors for optimal print output.
-- **Proofing**: Providing a preview of how the final print will look.
+Стикери и дипляни: Индивидуални стикери и дипляни за всякакви нужди.
 
-## Offset Printing
+Бланки и папки: Запазете професионализма си с нашите персонализирани бланки и папки.
 
-For bulk printing needs, offset printing offers the best quality at cost-effective rates. This method is ideal for:
+Вестници и списания: Отразете събитията и новостите с нашите качествени вестници и списания.
 
-- Large volume printing
-- Business stationary
-- Brochures, magazines, and catalogs
+Каталози и др.: Ние предлагаме разнообразие от печатни продукти, сред които и каталози, специализирани опаковки и много други.
 
-## Specialized Printing Services
+# Допълнителни услуги:
 
-We offer a range of specialized printing options to suit various needs:
+Печатен дизайн: Нашите творчески и квалифицирани графични дизайнери са на ваше разположение, за да ви помогнат със създаването на уникални и впечатляващи дизайни за вашите продукти.
 
-- **Posters**: High-resolution, large format printing for promotional or decorative needs.
-- **Catalogs**: Detailed product listings, with both soft and hard binding options.
-- **Flyers & Brochures**: Eye-catching designs perfect for marketing and promotional events.
-- **Business Cards**: Premium quality cards with a range of finishes to make a lasting impression.
-- **Books & Magazines**: High-quality printing with various binding options available.
-- **Newspapers**: Crisp printing for daily, weekly, or monthly publications.
-- **Calendars**: Customized designs with options for wall, desk, or pocket sizes.
-- **Stickers**: Durable stickers for promotional or labeling needs, available in various sizes and shapes.
-- **Packaging**: Customized packaging solutions to enhance brand visibility and product protection.
+Предпечат: Осигурете си пълната грижа за вашия проект с нашата услуга предпечат.
+
+# Доставка:
+
+Предлагаме доставка на готовата продукция за град София, за страната ползваме куриерски услуги. Ние ви осигуряваме удобство и надеждност във всяко едно отношение.
+В Прайм Принт ние се гордеем с нашата дългогодишна традиция, иновационен подход и преданост към всяка детайлна изработка. Ние сме тук, за да ви помогнем да направите вашите идеи реалност и да направите вашия печатен материал незабравим.
 
 ---
 
-Interested in any of our services? [Get in touch with us](/contact/) for a personalized quote or to discuss your specific requirements.
+[Свържете се с нас](/contact/) и разберете как можем да ви помогнем с вашите проекти и нужди в областта на печатната продукция.

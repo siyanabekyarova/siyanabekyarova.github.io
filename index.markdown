@@ -3,15 +3,22 @@ layout: home
 #title: Welcome to Prime Print
 ---
 
-We offer a wide range of printing and design services tailored to your needs. From flyers and business cards to custom graphics design, we've got you covered!
+<link rel="stylesheet" href="/assets/custom.css">
 
-## Featured Services
+Добре дошли в Прайм Принт - вашата надеждна партньорска печатница, която съчетава свежестта на нова фирма с дългогодишния опит и престиж на 25 години в света на полиграфията. 
 
-### Design Services
-Crafting unique and memorable designs for your brand, event, or personal project.
+Ние сме с богат опит и доказана репутация в областта на печатните услуги, гарантирайки високо качество и професионализъм във всичко, което правим.
 
-### Printing Services
-High-quality paper printing, banners, posters, and more.
+## Нашите печатни машини:
 
-Ready to get started?
-[View Our Services](/services) and [our Portfolio of completed projects](/portfolio) to [Get a Quote](/contact).
+### 1. Хайделберг с формат 70/50: 
+Нашата машина на марката Хайделберг гарантира перфектно качество при печат на големи формати. С нея създаваме впечатляващи плакати, календари и други голямоформатни продукти.
+
+### 2.	Роланд с формат 50/35: 
+Машината Роланд е идеална за по-малки формати и детайлни проекти. С нея произвеждаме брошури, книги, листовки, флаери, кутии, опаковки, стикери и много други.
+
+Разгледайте нашите [услуги](/services) и портфолио от [проекти](/portfolio). [Свържете се с нас](/contact) за персонализирана оферта.
+
+---
+
+Вашият печат, нашия приоритет, Прайм Принт!

@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Portfolio
+title: Портфолио
 ---
+
+<link rel="stylesheet" href="/assets/custom.css">
 
 At Prime Print, we take pride in every project we complete. Below are some of the exceptional works we've done for our clients over the years.
 

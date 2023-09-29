@@ -1,0 +1,32 @@
+/* Change the background color of the top navigation */
+.site-nav {
+    background-color: #ffffff;
+}
+
+.page-content {
+    background-color: #6f9fe9; /* This is a light grey; replace with any color you like */
+}
+
+.wrapper {
+    background-color: #ffffff; /* This is white; replace with any color you like */
+}
+
+h2 {
+    color: #2C3E50; /* Choose your color for h2 headings */
+}
+
+h3 {
+    color: #0e35a0; /* Choose your color for h3 headings */
+}
+
+.home p {
+    color: #333333; /* This is a dark grey; replace with any color you like */
+}
+
+.home a {
+    color: #E74C3C; /* This is a reddish color; replace with any color you like */
+}
+
+.home a:hover {
+    color: #2C3E50; /* Color when hovering over the link */
+}
