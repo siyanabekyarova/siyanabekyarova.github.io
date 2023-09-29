@@ -4,27 +4,27 @@
 }
 
 .page-content {
-    background-color: #ffffff; /* This is a light grey; replace with any color you like */
+    background-color: #ffffff; 
 }
 
 .wrapper {
-    background-color: #ffffff; /* This is white; replace with any color you like */
+    background-color: #ffffff;
 }
 
 h2 {
-    color: #2C3E50; /* Choose your color for h2 headings */
+    color: #2C3E50; /* color for h2 headings */
 }
 
 h3 {
-    color: #0e35a0; /* Choose your color for h3 headings */
+    color: #0e35a0; /* color for h3 headings */
 }
 
 .home p {
-    color: #333333; /* This is a dark grey; replace with any color you like */
+    color: #333333; 
 }
 
 .home a {
-    color: #E74C3C; /* This is a reddish color; replace with any color you like */
+    color: #E74C3C; 
 }
 
 .home a:hover {
