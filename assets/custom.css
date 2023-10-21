@@ -6,6 +6,12 @@ body {
     display: none;
 }
 
+@media only screen and (max-width: 600px) {
+    .menu-icon::before {
+        color: #333;  /* Adjust this color as needed */
+    }
+}
+
 .site-header {
     display: flex;
     flex-direction: column;
