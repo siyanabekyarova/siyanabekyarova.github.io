@@ -1,8 +1,18 @@
+body {
+    font-family: "Century Gothic", "Futura", "Arial", sans-serif;
+}
+
+
 .site-header {
     padding: 20px 0;
     text-align: center;
     background-color: #EAEAEA;
     border-bottom: 1px solid #EAEAEA;
+}
+
+.site-header .site-title img {
+    display: block;
+    margin: 0 auto;
 }
 
 .site-footer {
