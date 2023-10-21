@@ -2,12 +2,12 @@
     padding: 20px 0;
     text-align: center;
     border-top: 1px solid #e0e0e0;
-    background-color: #f7f7f7;  /* light gray background */
+    background-color: #EAEAEA;  /* light gray background */
 }
 
 .footer-logo img {
     margin-bottom: 10px;
-    max-width: 100px;  /* adjust as needed */
+    max-width: 500px;  /* adjust as needed */
 }
 
 .footer-content {

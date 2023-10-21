@@ -21,4 +21,3 @@ layout: home
 
 ---
 Вашият печат, нашия приоритет!
-![Image3](/assets/Logo.png)
