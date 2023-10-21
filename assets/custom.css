@@ -1,13 +1,13 @@
 .site-footer {
     padding: 20px 0;
     text-align: center;
-    border-top: 1px solid #e0e0e0;
-    background-color: #EAEAEA;  /* light gray background */
+    border-top: 1px solid #EAEAEA;
+    background-color: #EAEAEA;
 }
 
 .footer-logo img {
     margin-bottom: 10px;
-    max-width: 500px;  /* adjust as needed */
+    max-width: 500px;
 }
 
 .footer-content {
@@ -18,11 +18,11 @@
 }
 
 .footer-content a {
-    color: #333;  /* adjust color as needed */
+    color: #333; 
     text-decoration: none;
     transition: color 0.3s;
 }
 
 .footer-content a:hover {
-    color: #0077cc;  /* adjust hover color as needed */
+    color: #0077cc; 
 }
