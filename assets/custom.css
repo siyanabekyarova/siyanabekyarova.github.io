@@ -1,0 +1,28 @@
+.site-footer {
+    padding: 20px 0;
+    text-align: center;
+    border-top: 1px solid #e0e0e0;
+    background-color: #f7f7f7;  /* light gray background */
+}
+
+.footer-logo img {
+    margin-bottom: 10px;
+    max-width: 100px;  /* adjust as needed */
+}
+
+.footer-content {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    align-items: center;
+}
+
+.footer-content a {
+    color: #333;  /* adjust color as needed */
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.footer-content a:hover {
+    color: #0077cc;  /* adjust hover color as needed */
+}
