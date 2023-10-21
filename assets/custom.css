@@ -2,6 +2,23 @@ body {
     font-family: "Century Gothic", "Futura", "Arial", sans-serif;
 }
 
+.site-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.site-nav {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.site-nav .trigger {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
 
 .site-header {
     padding: 20px 0;
