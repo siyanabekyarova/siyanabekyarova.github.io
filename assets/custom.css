@@ -2,7 +2,7 @@ body {
     font-family: "Century Gothic", "Futura", "Arial", sans-serif;
 }
 
-.page h1.title {
+.post-header .post-title {
     display: none;
 }
 
