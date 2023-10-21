@@ -1,7 +1,8 @@
 .site-header {
+    padding: 20px 0;
+    text-align: center;
     background-color: #EAEAEA;
-    border-bottom: 1px solid #EAEAEA; 
-    padding: 10px 0;
+    border-bottom: 1px solid #EAEAEA;
 }
 
 .site-footer {
