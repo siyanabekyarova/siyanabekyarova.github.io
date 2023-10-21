@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Свържете се с нас
 permalink: /contact/
 ---
 

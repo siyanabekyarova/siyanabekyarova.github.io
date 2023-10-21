@@ -2,6 +2,10 @@ body {
     font-family: "Century Gothic", "Futura", "Arial", sans-serif;
 }
 
+.page h1.title {
+    display: none;
+}
+
 .site-header {
     display: flex;
     flex-direction: column;
