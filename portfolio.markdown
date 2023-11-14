@@ -11,7 +11,6 @@ title: Портфолио
 
 ![Image3](/assets/image3.jpg)
 ![Image2](/assets/image2.jpg)
-![Image1](/assets/image1.jpg)
 
 ---
 
