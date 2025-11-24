@@ -6,15 +6,15 @@
         </div>
         <div class="footer-links">
             <h4>Навигация</h4>
-            <a href="{{ '/' | relative_url }}">Начало</a>
-            <a href="{{ '/services' | relative_url }}">Услуги</a>
-            <a href="{{ '/portfolio' | relative_url }}">Портфолио</a>
-            <a href="{{ '/contact' | relative_url }}">Контакт</a>
+            <a class="transition-colors duration-150 hover:text-white/70" href="{{ '/' | relative_url }}">Начало</a>
+            <a class="transition-colors duration-150 hover:text-white/70" href="{{ '/services' | relative_url }}">Услуги</a>
+            <a class="transition-colors duration-150 hover:text-white/70" href="{{ '/portfolio' | relative_url }}">Портфолио</a>
+            <a class="transition-colors duration-150 hover:text-white/70" href="{{ '/contact' | relative_url }}">Контакт</a>
         </div>
         <div class="footer-contact">
             <h4>Контакти</h4>
-            <a href="tel:{{ site.phone | default: '0887425816' }}">{{ site.phone | default: '0887 425 816' }}</a>
-            <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+            <a class="transition-colors duration-150 hover:text-white/70" href="tel:{{ site.phone | default: '0887425816' }}">{{ site.phone | default: '0887 425 816' }}</a>
+            <a class="transition-colors duration-150 hover:text-white/70" href="mailto:{{ site.email }}">{{ site.email }}</a>
             <span>{{ site.address | default: 'гр. София, бул. Самоков 60 A' }}</span>
         </div>
     </div>

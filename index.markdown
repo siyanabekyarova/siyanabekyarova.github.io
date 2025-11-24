@@ -3,9 +3,10 @@ layout: home
 #title: Welcome to Prime Print
 ---
 
+<link rel="stylesheet" href="/assets/tailwind.css">
 <link rel="stylesheet" href="/assets/custom.css">
 
-<section class="hero">
+<section class="hero bg-gradient-to-br from-white via-amber-50/60 to-teal-50/40 rounded-2xl border border-black/5 shadow-lg px-8 md:px-12 py-8 md:py-12">
   <div class="hero-grid">
     <div class="hero-copy">
       <p class="eyebrow">Печатница Прайм Принт</p>
@@ -33,11 +34,6 @@ layout: home
         </div>
       </div>
     </div>
-    <div class="hero-card">
-      <img src="/assets/Logo.png" alt="Лого Прайм Принт" class="hero-logo">
-      <p>Съчетаваме индустриална мощ с дизайнерски усет за перфектен резултат.</p>
-      <div class="pill">Брандинг · Опаковки · Издателство</div>
-    </div>
   </div>
 </section>
 
@@ -48,7 +44,7 @@ layout: home
     <p class="muted">От концепция до доставка – управляваме целия процес, за да получите печат, готов за показване.</p>
   </div>
   <div class="card-grid">
-    <article class="card service-card">
+    <article class="card service-card transition-transform duration-200 hover:-translate-y-1 hover:shadow-2xl">
       <div class="card-top">
         <h3>Плакати и външна реклама</h3>
         <p>Живи цветове, устойчиви мастила и фини детайли за кампании, които се забелязват.</p>
@@ -59,7 +55,7 @@ layout: home
         <span class="pill">Големи формати</span>
       </div>
     </article>
-    <article class="card service-card">
+    <article class="card service-card transition-transform duration-200 hover:-translate-y-1 hover:shadow-2xl">
       <div class="card-top">
         <h3>Книги, каталози, списания</h3>
         <p>От корицата до последната страница – стабилно подвързване, премиум хартия и точни тиражи.</p>
@@ -70,7 +66,7 @@ layout: home
         <span class="pill">Къси и дълги серии</span>
       </div>
     </article>
-    <article class="card service-card">
+    <article class="card service-card transition-transform duration-200 hover:-translate-y-1 hover:shadow-2xl">
       <div class="card-top">
         <h3>Опаковки и етикети</h3>
         <p>Кутии, стикери и етикети, които подсилват бранда и защитават продукта.</p>
@@ -81,7 +77,7 @@ layout: home
         <span class="pill">Сертифицирани мастила</span>
       </div>
     </article>
-    <article class="card service-card">
+    <article class="card service-card transition-transform duration-200 hover:-translate-y-1 hover:shadow-2xl">
       <div class="card-top">
         <h3>Корпоративни материали</h3>
         <p>Визитки, бланки, папки, дипляни и флаери с консистентен фирмен облик.</p>
@@ -102,7 +98,7 @@ layout: home
     <p class="muted">Две машини – максимум гъвкавост. Контрол на цветовете и стабилност на тиражите.</p>
   </div>
   <div class="feature-grid">
-    <article class="card feature-card">
+    <article class="card feature-card transition-transform duration-200 hover:-translate-y-1 hover:shadow-xl">
       <h3>Хайделберг 70 × 50</h3>
       <p>Идеална за големи формати – плакати, календари, каталози. Прецизно регистриране и безкомпромисно качество.</p>
       <ul>
@@ -111,7 +107,7 @@ layout: home
         <li>Стабилни резултати при големи тиражи</li>
       </ul>
     </article>
-    <article class="card feature-card">
+    <article class="card feature-card transition-transform duration-200 hover:-translate-y-1 hover:shadow-xl">
       <h3>Роланд 50 × 35</h3>
       <p>Маневрена за детайлни проекти – брошури, книги, опаковки, стикери и флаери.</p>
       <ul>
@@ -129,17 +125,17 @@ layout: home
     <h2>Ясни стъпки към готовия печат</h2>
   </div>
   <div class="steps">
-    <div class="step">
+    <div class="step transition-transform duration-200 hover:-translate-y-1">
       <span class="step-number">01</span>
       <h3>Консултация</h3>
       <p>Уточняваме целта, тиража, сроковете и бюджета. Даваме препоръки за хартия и довършителни процеси.</p>
     </div>
-    <div class="step">
+    <div class="step transition-transform duration-200 hover:-translate-y-1">
       <span class="step-number">02</span>
       <h3>Дизайн и предпечат</h3>
       <p>Подготвяме файлове, следим цветовете и съвместимостта. При нужда правим пробен отпечатък.</p>
     </div>
-    <div class="step">
+    <div class="step transition-transform duration-200 hover:-translate-y-1">
       <span class="step-number">03</span>
       <h3>Печат и доставка</h3>
       <p>Печатаме, довършваме и доставяме в София и страната чрез куриер. Спазваме сроковете – винаги.</p>
@@ -147,7 +143,7 @@ layout: home
   </div>
 </section>
 
-<section class="section cta-band">
+<section class="section cta-band rounded-2xl shadow-2xl">
   <div class="cta-inner">
     <div>
       <p class="eyebrow">Готови за нов проект?</p>
