@@ -17,38 +17,44 @@ permalink: /services/
   <div class="card-grid service-grid">
     <article class="card service-card transition-transform duration-200 hover:-translate-y-1 hover:shadow-2xl">
       <h2>Плакати и външна реклама</h2>
-      <p>Еднолистни и многолистни календари, плакати, витринни постери, кампанийни визии.</p>
+      <p><strong>Плакати:</strong> Изразете себе си със стил и креативност чрез нашите впечатляващи плакати.</p>
+      <p><strong>Календари:</strong> Създаваме еднолистни и многолистни календари, перфектни за подаръци или корпоративни събития.</p>
+      <p><strong>Листовки и флаери:</strong> Представете вашите продукти и услуги с ярки и вдъхновяващи листовки и флаери.</p>
       <div class="pill-row">
-        <span class="pill">Големи формати</span>
-        <span class="pill">Ламинат</span>
-        <span class="pill">UV защита</span>
+        <span class="pill">Плакати</span>
+        <span class="pill">Календари</span>
+        <span class="pill">Листовки</span>
       </div>
     </article>
     <article class="card service-card transition-transform duration-200 hover:-translate-y-1 hover:shadow-2xl">
       <h2>Книги, списания, каталози</h2>
-      <p>Редакционно качество, стабилно подвързване и консистентни цветове при всеки тираж.</p>
+      <p><strong>Брошури и книги:</strong> Нашата екипировка и опит гарантират професионално издание на вашата литература.</p>
+      <p><strong>Вестници и списания:</strong> Отразете събитията и новостите с нашите качествени вестници и списания.</p>
+      <p><strong>Каталози и др.:</strong> Ние предлагаме разнообразие от печатни продукти, сред които и каталози, специализирани опаковки и много други.</p>
       <div class="pill-row">
-        <span class="pill">Перфектно подвързване</span>
-        <span class="pill">Спот лак</span>
-        <span class="pill">Меки и твърди корици</span>
+        <span class="pill">Книги</span>
+        <span class="pill">Брошури</span>
+        <span class="pill">Списания</span>
       </div>
     </article>
     <article class="card service-card transition-transform duration-200 hover:-translate-y-1 hover:shadow-2xl">
       <h2>Опаковки и етикети</h2>
-      <p>Кутии, обвивки, етикети и стикери с щанца, фолиране и персонализация по нужда.</p>
+      <p><strong>Кутии и опаковки:</strong> Опаковайте вашите продукти с изящност и стил с нашите персонализирани кутии и опаковки.</p>
+      <p><strong>Стикери и дипляни:</strong> Индивидуални стикери и дипляни за всякакви нужди.</p>
       <div class="pill-row">
-        <span class="pill">Щанцоване</span>
-        <span class="pill">Фолиране</span>
-        <span class="pill">Персонализация</span>
+        <span class="pill">Кутии</span>
+        <span class="pill">Опаковки</span>
+        <span class="pill">Стикери</span>
       </div>
     </article>
     <article class="card service-card transition-transform duration-200 hover:-translate-y-1 hover:shadow-2xl">
       <h2>Корпоративни материали</h2>
-      <p>Визитки, бланки, папки, дипляни, флаери, блокове и формуляри с премиум завършек.</p>
+      <p><strong>Бланки и папки:</strong> Запазете професионализма си с нашите персонализирани бланки и папки.</p>
+      <p>Визитки, дипляни, флаери, блокове и формуляри с премиум завършек, съобразен с вашия бранд.</p>
       <div class="pill-row">
-        <span class="pill">Двустранен печат</span>
-        <span class="pill">Тиснение</span>
-        <span class="pill">Довършителни ефекти</span>
+        <span class="pill">Визитки</span>
+        <span class="pill">Бланки</span>
+        <span class="pill">Папки</span>
       </div>
     </article>
   </div>

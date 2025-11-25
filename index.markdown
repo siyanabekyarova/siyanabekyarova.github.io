@@ -9,15 +9,18 @@ layout: home
 <section class="hero bg-gradient-to-br from-white via-amber-50/60 to-teal-50/40 rounded-2xl border border-black/5 shadow-lg px-8 md:px-12 py-8 md:py-12">
   <div class="hero-grid">
     <div class="hero-copy">
-      <p class="eyebrow">Печатница Прайм Принт</p>
-      <h1>Смел печат с модерна прецизност</h1>
+      <h1>Добре дошли в Прайм Принт</h1>
+      <div style="height: 12px;"></div>
       <p class="lead">
-        Над 25 години превръщаме идеи в впечатляващи печатни продукти. Бързи срокове,
-        прецизен контрол и персонално отношение към всеки проект.
+        Вашата надеждна партньорска печатница, която съчетава свежестта на нова фирма с дългогодишния опит и престиж на 25 години в света на полиграфията.
+      </p>
+      <div style="height: 12px;"></div>
+      <p class="lead">
+        Ние сме с богат опит и доказана репутация в областта на печатните услуги, гарантирайки високо качество и професионализъм във всичко, което правим.
       </p>
       <div class="hero-cta">
         <a class="btn btn-primary" href="/portfolio">Вижте портфолио</a>
-        <a class="btn btn-ghost" href="/contact">Вземете оферта</a>
+        <a class="btn btn-ghost" href="/contact">Получете оферта</a>
       </div>
       <div class="hero-stats">
         <div class="stat">
@@ -47,45 +50,45 @@ layout: home
     <article class="card service-card transition-transform duration-200 hover:-translate-y-1 hover:shadow-2xl">
       <div class="card-top">
         <h3>Плакати и външна реклама</h3>
-        <p>Живи цветове, устойчиви мастила и фини детайли за кампании, които се забелязват.</p>
+        <p>Печат за кампании и събития, които привличат погледа и се запомнят.</p>
       </div>
       <div class="pill-row">
-        <span class="pill">UV лак</span>
-        <span class="pill">Ламинат</span>
-        <span class="pill">Големи формати</span>
+        <span class="pill">Плакати</span>
+        <span class="pill">Календари</span>
+        <span class="pill">Листовки</span>
       </div>
     </article>
     <article class="card service-card transition-transform duration-200 hover:-translate-y-1 hover:shadow-2xl">
       <div class="card-top">
         <h3>Книги, каталози, списания</h3>
-        <p>От корицата до последната страница – стабилно подвързване, премиум хартия и точни тиражи.</p>
+        <p>Издания, които изглеждат професионално и работят дълго за вашия бранд.</p>
       </div>
       <div class="pill-row">
-        <span class="pill">Перфектно подвързване</span>
-        <span class="pill">Спот лак</span>
-        <span class="pill">Къси и дълги серии</span>
+        <span class="pill">Книги</span>
+        <span class="pill">Брошури</span>
+        <span class="pill">Списания</span>
       </div>
     </article>
     <article class="card service-card transition-transform duration-200 hover:-translate-y-1 hover:shadow-2xl">
       <div class="card-top">
         <h3>Опаковки и етикети</h3>
-        <p>Кутии, стикери и етикети, които подсилват бранда и защитават продукта.</p>
+        <p>Опаковки и етикети, които подсилват идентичността и защитават продукта.</p>
       </div>
       <div class="pill-row">
-        <span class="pill">Щанца</span>
-        <span class="pill">Фолиране</span>
-        <span class="pill">Сертифицирани мастила</span>
+        <span class="pill">Кутии</span>
+        <span class="pill">Опаковки</span>
+        <span class="pill">Стикери</span>
       </div>
     </article>
     <article class="card service-card transition-transform duration-200 hover:-translate-y-1 hover:shadow-2xl">
       <div class="card-top">
         <h3>Корпоративни материали</h3>
-        <p>Визитки, бланки, папки, дипляни и флаери с консистентен фирмен облик.</p>
+        <p>Всичко за ежедневната ви комуникация – от визитки до фирмени папки и дипляни.</p>
       </div>
       <div class="pill-row">
-        <span class="pill">Тиснение</span>
-        <span class="pill">Двустранен печат</span>
-        <span class="pill">Персонализация</span>
+        <span class="pill">Визитки</span>
+        <span class="pill">Бланки</span>
+        <span class="pill">Папки</span>
       </div>
     </article>
   </div>
