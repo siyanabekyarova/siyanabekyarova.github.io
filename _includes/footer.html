@@ -21,5 +21,23 @@
     <div class="footer-bottom">
         <span>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</span>
         <span>Създадено с грижа в Прайм Принт</span>
+        <span id="visit-counter" class="muted">Посещения: зареждане…</span>
     </div>
+    <script>
+        (function () {
+            var el = document.getElementById('visit-counter');
+            if (!el || !window.fetch) return;
+
+            fetch('https://api.countapi.xyz/hit/primeprint.pro/visits')
+                .then(function (res) { return res.json(); })
+                .then(function (data) {
+                    if (data && typeof data.value === 'number') {
+                        el.textContent = 'Посещения: ' + data.value.toLocaleString('bg-BG');
+                    }
+                })
+                .catch(function () {
+                    el.textContent = '';
+                });
+        })();
+    </script>
 </footer>
