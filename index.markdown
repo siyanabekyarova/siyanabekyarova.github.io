@@ -43,7 +43,7 @@ layout: home
 <section class="section">
   <div class="section-header">
     <p class="eyebrow">Какво правим най-често</p>
-    <h2>Фокусирани печатни решения</h2>
+    <h2>Печатни решения</h2>
     <p class="muted">От концепция до доставка – управляваме целия процес, за да получите печат, готов за показване.</p>
   </div>
   <div class="card-grid">
@@ -57,6 +57,14 @@ layout: home
         <span class="pill">Календари</span>
         <span class="pill">Листовки</span>
       </div>
+      <div class="card-thumb-row">
+        <a class="card-thumb-link" href="/portfolio" aria-label="Вижте реализирани проекти за плакати и външна реклама">
+          <img src="/assets/image3.jpg" alt="Миниатюра на плакат за филмова премиера">
+        </a>
+        <a class="card-thumb-link" href="/portfolio" aria-label="Вижте реализирани проекти за плакати и външна реклама">
+          <img src="/assets/image2.jpg" alt="Миниатюра на рекламни постери за напитки">
+        </a>
+      </div>
     </article>
     <article class="card service-card transition-transform duration-200 hover:-translate-y-1 hover:shadow-2xl">
       <div class="card-top">
@@ -67,6 +75,14 @@ layout: home
         <span class="pill">Книги</span>
         <span class="pill">Брошури</span>
         <span class="pill">Списания</span>
+      </div>
+      <div class="card-thumb-row">
+        <a class="card-thumb-link" href="/portfolio" aria-label="Вижте реализирани проекти за книги, каталози и списания">
+          <img src="/assets/image6.jpg" alt="Миниатюра на каталози и брошури">
+        </a>
+        <a class="card-thumb-link" href="/portfolio" aria-label="Вижте реализирани проекти за книги, каталози и списания">
+          <img src="/assets/image7.jpg" alt="Миниатюра на проектна брошура">
+        </a>
       </div>
     </article>
     <article class="card service-card transition-transform duration-200 hover:-translate-y-1 hover:shadow-2xl">
@@ -79,6 +95,14 @@ layout: home
         <span class="pill">Опаковки</span>
         <span class="pill">Стикери</span>
       </div>
+      <div class="card-thumb-row">
+        <a class="card-thumb-link" href="/portfolio" aria-label="Вижте реализирани проекти за опаковки и етикети">
+          <img src="/assets/image11.jpg" alt="Миниатюра на етикети за продукт">
+        </a>
+        <a class="card-thumb-link" href="/portfolio" aria-label="Вижте реализирани проекти за опаковки и етикети">
+          <img src="/assets/image9.jpg" alt="Миниатюра на POS материали за бутилки">
+        </a>
+      </div>
     </article>
     <article class="card service-card transition-transform duration-200 hover:-translate-y-1 hover:shadow-2xl">
       <div class="card-top">
@@ -89,6 +113,14 @@ layout: home
         <span class="pill">Визитки</span>
         <span class="pill">Бланки</span>
         <span class="pill">Папки</span>
+      </div>
+      <div class="card-thumb-row">
+        <a class="card-thumb-link" href="/portfolio" aria-label="Вижте реализирани проекти за корпоративни материали">
+          <img src="/assets/image10.jpg" alt="Миниатюра на брандирани книгоразделители">
+        </a>
+        <a class="card-thumb-link" href="/portfolio" aria-label="Вижте реализирани проекти за корпоративни материали">
+          <img src="/assets/image12.jpg" alt="Миниатюра на корпоративен каталог">
+        </a>
       </div>
     </article>
   </div>
@@ -131,16 +163,19 @@ layout: home
     <div class="step transition-transform duration-200 hover:-translate-y-1">
       <span class="step-number">01</span>
       <h3>Консултация</h3>
+      <br>
       <p>Уточняваме целта, тиража, сроковете и бюджета. Даваме препоръки за хартия и довършителни процеси.</p>
     </div>
     <div class="step transition-transform duration-200 hover:-translate-y-1">
       <span class="step-number">02</span>
       <h3>Дизайн и предпечат</h3>
+      <br>
       <p>Подготвяме файлове, следим цветовете и съвместимостта. При нужда правим пробен отпечатък.</p>
     </div>
     <div class="step transition-transform duration-200 hover:-translate-y-1">
       <span class="step-number">03</span>
       <h3>Печат и доставка</h3>
+      <br>
       <p>Печатаме, довършваме и доставяме в София и страната чрез куриер. Спазваме сроковете – винаги.</p>
     </div>
   </div>

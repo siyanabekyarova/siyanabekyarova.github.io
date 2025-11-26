@@ -32,6 +32,8 @@ logo: /assets/Logo.png
 logo_footer: /assets/Full_Logo.png
 phone: "0887 425 816"
 address: "гр. София, бул. Самоков 60 A"
+facebook_url: "https://www.facebook.com/PrimePrintLtd/"
+google_analytics: G-F3M6MHKM52
 
 # Build settings
 theme: minima

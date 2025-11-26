@@ -20,6 +20,9 @@ permalink: /contact/
       <p><strong>Адрес:</strong> {{ site.address }}</p>
       <p><strong>Телефон:</strong> <a href="tel:{{ site.phone | replace: ' ', '' }}">{{ site.phone }}</a></p>
       <p><strong>Email:</strong> <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+      {% if site.facebook_url %}
+      <p><strong>Facebook:</strong> <a href="{{ site.facebook_url }}" target="_blank" rel="noopener">Prime Print</a></p>
+      {% endif %}
       <p class="muted">Работно време: пон–пет, 09:00 – 18:00</p>
       <div class="contact-actions">
         <a class="btn btn-primary" href="tel:0887425816">Позвънете</a>

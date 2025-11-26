@@ -16,6 +16,9 @@
             <a class="transition-colors duration-150 hover:text-white/70" href="tel:{{ site.phone | default: '0887425816' }}">{{ site.phone | default: '0887 425 816' }}</a>
             <a class="transition-colors duration-150 hover:text-white/70" href="mailto:{{ site.email }}">{{ site.email }}</a>
             <span>{{ site.address | default: 'гр. София, бул. Самоков 60 A' }}</span>
+            {% if site.facebook_url %}
+            <a class="transition-colors duration-150 hover:text-white/70" href="{{ site.facebook_url }}" target="_blank" rel="noopener">Facebook страница</a>
+            {% endif %}
         </div>
     </div>
     <div class="footer-bottom">
